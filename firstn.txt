@@ -1,2 +1,3 @@
 firstnlines
 adding codes from github
+adding lines from local
